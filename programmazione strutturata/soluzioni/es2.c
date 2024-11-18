@@ -7,6 +7,6 @@ SCELTA.
 
 void main()
 {
- unsigned int a = 27;
- printf("Pari: %d\n",!(a&1));
-} 
+    unsigned int a = 27;
+    printf("Pari: %d\n", !(a & 1));
+}

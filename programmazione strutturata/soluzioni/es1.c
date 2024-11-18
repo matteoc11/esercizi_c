@@ -7,6 +7,6 @@ decimale a esadecimale e ottale.
 
 void main()
 {
- unsigned int a = 13546789;
- printf("Ottale: %o, Esadecimale: %x, Esadecimale: %X\n",a,a,a);
-} 
+    unsigned int a = 13546789;
+    printf("Ottale: %o, Esadecimale: %x, Esadecimale: %X\n", a, a, a);
+}
