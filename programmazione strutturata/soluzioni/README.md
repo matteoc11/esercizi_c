@@ -3,6 +3,7 @@ decimale a esadecimale e ottale.
 3. Scrivere un programma in C che visualizza 1 se il numero è
 pari, 0 se è dispari. NOTA: NON VA USATA L’ISTRUZIONE DI
 SCELTA.
+![Nuovo Documento - Selection](https://github.com/user-attachments/assets/da291d8e-685e-45b2-88f9-2d606262dd5f)
 5. Scrivere un programma in C che moltiplica un numero intero a
 per 2^b.
 6. Scrivere un programma in C che divide (divisione intera) un
