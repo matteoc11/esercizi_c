@@ -1,6 +1,6 @@
 1. Scrivere un programma in C che converte un numero da
 decimale a esadecimale e ottale.
-``` c:es1.c ```
+``` c:./es1.c ```
 3. Scrivere un programma in C che visualizza 1 se il numero è
 pari, 0 se è dispari. NOTA: NON VA USATA L’ISTRUZIONE DI
 SCELTA.
