@@ -7,6 +7,6 @@ SCELTA.
 per 2^b.
 6. Scrivere un programma in C che divide (divisione intera) un
 numero intero a diviso 2^b.
-![image](https://github.com/user-attachments/assets/3fa8142a-e9e3-4019-8551-392a2ff627ad)
+![387294964-3fa8142a-e9e3-4019-8551-392a2ff627ad](https://github.com/user-attachments/assets/5127e602-8fda-40d9-8f01-0aec931f9689)
 Per tutti questi esercizi non è necessario inserire il/i numero/i da
 tastiera, considerare di inizializzare il/i valore/i direttamente nel codice del main.
