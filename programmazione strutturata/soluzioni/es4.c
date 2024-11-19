@@ -1,3 +1,6 @@
+/*
+Scrivere un programma in C che effettua la divisione intera di un numero intero a per 2^b.
+*/
 #include <stdio.h>
 
 void main()

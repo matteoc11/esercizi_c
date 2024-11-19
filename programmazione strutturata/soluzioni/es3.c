@@ -1,3 +1,6 @@
+/*
+Scrivere un programma in C che moltiplica un numero intero a per 2^b.
+*/
 #include <stdio.h>
 
 void main()
